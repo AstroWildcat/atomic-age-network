@@ -1,4 +1,4 @@
-url: https://the-vintage-net.netlify.app/
+url: https://the-vintage-net.netlify.app
 include: [_redirects]
 exclude: [README.md, UNLICENSE]
 kramdown:
