@@ -4,8 +4,7 @@ title: How to Join the Webring
 ---
 # Join the Webring
 ## Criteria to join
-- You   
-  The webpage you add to the webring doesn't have to be your website's index page! it could be vintage-themed page or a webring hub, for examples.
+- You must have something on your webiste that is vintage or retro-centric. The webpage you add to the webring doesn't have to be your website's index page! It could be a vintage-themed page or a webring hub, for example.
 - If your website has any NSFW content (including gore), it must be clearly marked as such.
 - Your website should have no hate speech or bigotry.
 - Your website should not be advertisement-focused.
