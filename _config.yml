@@ -1,0 +1,7 @@
+url: https://the-vintage-net.netlify.app/
+include: [_redirects]
+exclude: [README.md, UNLICENSE]
+kramdown:
+ syntax_highlighter: +nil+
+ smart_quotes: "39,39,34,34"
+github_repo_url: https://github.com/AstroWildcat/thevintagenet
