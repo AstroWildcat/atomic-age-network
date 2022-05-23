@@ -4,7 +4,8 @@ body {
 	font-family: "Rockwell", sans-serif;
 	font-size: 12pt;
 	text-align: center;
+	margin: 50px;
 }
 pre, code {font-family: monospace; font-size: 10pt;}
-footer {font-size: 9pt; text-align: right;}
+footer {font-size: 9pt; text-align: center;}
 textarea, input {vertical-align: text-top; font-family: sans-serif;}
