@@ -5,14 +5,13 @@ body {
 	font-size: 12pt;
 	text-align: center;
 	margin: 50px;
-	list-style-type: none;
-	
 }
 .box {
 	background-color: rgba(255,255,255,0.85);
 	padding: 25px;
 	border-radius: 10px;
 	margin-bottom: 25px;
+	list-style-type: none;
 }
 pre, code {font-family: monospace; font-size: 10pt;}
 footer {font-size: 10pt; text-align: center;}
