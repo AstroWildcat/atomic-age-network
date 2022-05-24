@@ -11,4 +11,5 @@ If the ring is broken, please [submit an error report on GitHub](https://github.
 
 ## Members ({{site.data.members.size}}) {#members}
 {% for member in site.data.members %}
-<p><a href="{{member.url | xml_escape}}" markdown=0>{{member.name | xml_escape | newline_to_br}}</a> ({{member.decades}})</p>{% endfor %}
+<a href="{{member.url | xml_escape}}" markdown=0>{{member.name | xml_escape | newline_to_br}}</a> **Decades of Focus:** ({{member.decades}})
+{% endfor %}
