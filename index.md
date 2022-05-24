@@ -1,5 +1,5 @@
 ---
-title: Atomic Age Netwrok
+title: Atomic Age Network
 layout: html
 ---
 # Atomic Age Network
