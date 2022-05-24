@@ -29,4 +29,6 @@ If you're editing your existing entry, make sure to use the same slug. If you're
 ## Add links on your webpage
 Once you're on the members list, add links on your webpage to <b>{{'/YOUR-SLUG/next'|absolute_url}}</b> and <b>{{'/YOUR-SLUG/previous'|absolute_url}}</b>, replacing <b>YOUR-SLUG</b> with the slug you chose.  
 Feel free to include a link to <b>{{'/'|absolute_url}}</b> as well, or use our button to link back to us.  
+![Atomic Age Network Button](https://github.com/AstroWildcat/atomic-age-network/blob/main/atomic-age-network%20button.png)
+
 Check if [the `<aside>` element](https://html.spec.whatwg.org/dev/sections.html#the-aside-element) is right for you.
