@@ -21,7 +21,7 @@ Pull requests can also be used to change your existing entry or delete your entr
 <label>Slug <input name=slug pattern="[0-9a-z](?:-?[0-9a-z])*" required></label> (ASCII lowercase letters, digits, and hyphen-minuses)<br>
 <label>Name <textarea name=name></textarea></label><br>
 <label>URL <input name=url type=url></label><br>
-<label>Decades of Focus <textarea name=decades pattern="[0-9a-z]([0-9a-z]></textarea></label><br>
+<label>Decades of Focus <input name=decades pattern="[0-9a-z]([0-9a-z]></input></label><br>
 <input type=submit>
 </form>
 If you're editing your existing entry, make sure to use the same slug. If you're deleting your existing entry, leave the URL field blank.
